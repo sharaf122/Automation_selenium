@@ -37,7 +37,7 @@ public class BaseLogin {
 			System.out.println("passed");
 		}
 		else {
-			System.out.println("faled");
+			System.out.println("failed");
 		}
 		
 		driver.close();
